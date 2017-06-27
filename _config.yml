@@ -2,32 +2,32 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               Hydejack
+title:               RaspberryPiWorkshop
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://qwtel.com
+url:                 https://tangowhisky37.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:             /hydejack
+baseurl:             /RaspberryPiWorkshop
 
 # A very short description of your page
-tagline:             A pretentious two-column Jekyll theme.
+tagline:             Raspberry Pi Workshop Tutorials
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  Raspberry Pi Workshop Tutorials.
   Open `_config.yml` to edit this text.
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Trevor Warren
+  email:             trevor at practical performance analyst dot com
 
 # Fallback image and color
-image:               /hydejack/assets/img/nap.jpg
+image:               /RaspberryPiWorkshop/assets/img/nap.jpg
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
@@ -48,7 +48,7 @@ google_fonts:        Roboto+Slab:700|Noto+Serif:400,400i,700,700i
 google_analytics:    <UA-XXXXXXXX-X>
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
-disqus_shortname:    <username>
+disqus_shortname:    tw37
 
 # This text will appear in the footer of every page. Markdown enabled.
 copyright:           '&copy; 2017. All rights reserved.'
