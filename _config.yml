@@ -13,18 +13,17 @@ url:                 https://tangowhisky37.github.io
 baseurl:             /RaspberryPiWorkshop
 
 # A very short description of your page
-tagline:             Raspberry Pi Workshop Tutorials
+tagline:             RasPi Workshop Tutorials
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
   Raspberry Pi Workshop Tutorials.
-  Open `_config.yml` to edit this text.
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
   name:              Trevor Warren
-  email:             trevor at practical performance analyst dot com
+  email:             trevor@practicalperformanceanalyst.com
 
 # Fallback image and color
 image:               /RaspberryPiWorkshop/assets/img/nap.jpg
