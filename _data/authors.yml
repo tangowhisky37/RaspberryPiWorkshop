@@ -2,32 +2,33 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
 qwtel:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Trevor Warren
+  email:             trevor@practicalperformanceanalyst.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-    Open `_data/authors.yml` to edit this text.
-
+    Am passionate about challenging the status-quo and finding reasons to innovate.
+    Over the past 15 years I have been delivering complex systems, 
+    have worked with very large clients across the world and constantly looking for opportunities
+    to bring about change. My love for working with people and harnessing the power of the 
+    collective human intellect helps me deliver the expected outcomes. I constantly strive
+    to combine my passion for delivering outcomes with my ability to build long lasting professional relationships. 
+    
   # This photo will be used in the about section
   picture:
-    src:             https://placehold.it/128x128
+    src:             https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAtEAAAAJDU1ODAwZDQ2LTJkZTgtNGEyZi05YWY5LWFjMzhlNGI5NWM3Nw.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
-    srcset:
-      1x:            https://placehold.it/128x128
-      2x:            https://placehold.it/256x256
+    #srcset:
+      #1x:            https://placehold.it/128x128
+      #2x:            https://placehold.it/256x256
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
   social:
     # facebook:        <username>
-    twitter:         <username>
+    twitter:         tangowhisky37
     # google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
@@ -50,9 +51,10 @@ qwtel:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          <username>
+    github:          tangowhisky37
     # stackoverflow:   <number/username>
     # npm:             <username>
+    
     # hackernews:      <username>
     # trello:          <firstnamelastname>
     # linkedin:        <firstname-lastname-string>
@@ -61,22 +63,22 @@ qwtel:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:           mailto:<mail@domain.tld>
-    rss:             https://<url>/feed.xml
+    email:           mailto:trevor@practicalperformanceanalyst.com
+    rss:             https://tangowhisky37.github.io/RaspberryPiWorkshop//feed.xml
 
 # Another author
-mdo:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
-  about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#mdo:
+  #name:              <firtname> <lastname>
+  #email:             <mail@domain.tld>
+  #about:             |
+    #Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+    #sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    #Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-    Open `_data/authors.yml` to edit this text.
-  picture:           https://placehold.it/128x128
-  social:
-    github:          <username>
-    twitter:         <username>
-  image: 'data:image/gif;base64,R0lGODlhAQABAPAAACAgIP///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==' # http://jsfiddle.net/LPxrT/
-  color: '#268bd2'
+    #Open `_data/authors.yml` to edit this text.
+  #picture:           https://placehold.it/128x128
+  #social:
+    #github:          <username>
+    #twitter:         <username>
+  #image: 'data:image/gif;base64,R0lGODlhAQABAPAAACAgIP///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==' # http://jsfiddle.net/LPxrT/
+  #color: '#268bd2'
