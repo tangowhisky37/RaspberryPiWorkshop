@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               RasPiWorkshop
+title:               RaspPiMeetup
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -13,12 +13,12 @@ url:                 https://tangowhisky37.github.io
 baseurl:             /RaspberryPiWorkshop
 
 # A very short description of your page
-tagline:             RasPi Workshop Tutorials
+tagline:             Home of the Melbourne Raspberry Pi Hackers Meetup group
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  Raspberry Pi Workshop Tutorials.
+  Melbourne Raspberry Pi Hackers Group Website.
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
