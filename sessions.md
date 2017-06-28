@@ -1,6 +1,6 @@
 ---
 layout: pagelayout
-title: Session Format
+title: Meetup Format
 menu: true
 order: 3
 ---
