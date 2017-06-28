@@ -2,8 +2,6 @@
 layout: base
 ---
 
-{% assign author = site.data.authors[page.author] | default:site.data.authors.first[1] %}
-
 <article class="page" role="article">
   {% if author.picture %}
     {% include srcset-img.html class="me" img=author.picture alt=author.name %}
@@ -15,3 +13,5 @@ layout: base
 
   {{ content }}
 </article>
+
+{% assign author = site.data.authors[page.author] | default:site.data.authors.first[1] %}

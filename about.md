@@ -5,76 +5,19 @@ menu: true
 order: 3
 ---
 
-## Hydejack
-Hydejack is a cutting-edge Jekyll theme that combines the best of static sites and modern web apps. It features a suite of JavaScript that makes the page feel like an app, without sacrificing backwards-compatibility, page-load speed or SEO.
+## Melbourne RaspberryPi Hackers Group
 
-> The complete package for professionals: A [blog], a [portfolio] and a [resume].
-{:.lead}
+Melbourne Raspberry Pi Hackers is a platform that will meet once a month with the objective of sharing, collaborating on interesting Raspberry Pi, Arduino, etc. related projects and hacking together on Open Source / Open Hardware platforms. From time to time  Melbourne Raspberry Pi Hackers conducts tutorials/workshops to get amateurs and newbies started with hacking with the Raspberry Pi and Arduinos.  
 
-It aims to be the complete package for professionals on the web. It features a blog suitable for both prose and technical documentation, a showcase for projects and a resume that fits with the rest of the design.
+This meetup is open to anyone who has an interest in hacking open source and open hardware. Hackers (budding, amateurs, etc.) with interests in open hardware e.g. Arduino, ESP8266, Raspberry Pi, etc. are invited to bring along their projects and come hack with us at the meetup. This is an opportunity to meetup with other hackers here in Melbourne, to get your questions answered, to show off the work you are doing and get going on those problems that have stalled progress on your hobby projects. We welcome hackers of all ages, including kids and women with interests in open hardware, open source.
 
-Open `about.md` to edit this text.
+* Melbourne Raspberry Pi Hackers Group is dedicated to providing a harassment-free experience for everyone regardless of gender, sexual orientation, disability, physical appearance, body size, age race, religion, favorite programming language and operating system, or any other personal attribute.
+* At Melbourne Raspberry Pi Hackers Group, we do not tolerate harassment of Melbourne Raspberry Jam participants in any form. Sexual language and imagery is not appropriate for any venue including the online forums and email communication. 
+* Participants violating these rules may be sanctioned or expelled from Melbourne Raspberry Jam meeting [without a refund if applicable] at the discretion of the committee members.
+* Melbourne Raspberry Pi Hackers is about open, participatory knowledge sharing, learning. We are a platform that will meet once every month with the objective of sharing projects, collaborating on interesting Raspberry Pi, Arduino, etc. related projects and hacking with Open Source / Open Hardware. Harassment and discrimination simply has no place in this environment.
+* We keep in touch through [Slack](https://melbrpi.slack.com) Slack is a web based platform that provides capability for individual and group chat with many other interesting features that foster collaboration among individuals. 
+* If you are keen to hang out and chat about the projects you are working on, get help on issues your facing or just want to hang out and help others with your supreme hacking skills please grab a slack account and join us by clicking on the following link - [Slack Registration](https://melbrpi.herokuapp.com). 
 
-### Features
-Both the PRO *and* free version includes all of the features listed below:
-
-* Full in-app page loading --- no Flash of White, no Flash of Unstyled Content[^1]
-* Advanced animations, inspired by Material Design
-* A customizable sidebar that turns into a touch-enabled app drawer on mobile
-* Near-perfect [Google PageSpeed Score](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fqwtel.com%2Fhydejack%2F)[^2]
-* Even higher *perceived speed* thanks to pre-fetching and latency-hiding
-* Support for categories and tags --- even when hosting on GitHub Pages
-* Built-in collection of social media icons
-* Author section below each article and multiple authors
-* Simple and semantic HTML --- can be viewed even with text-based browsers
-* Progressive enhancement --- sacrifice features, not content
-* Google Analytics and Google Fonts support
-* Blog layout with pagination
-* Syntax highlighting
-* Math formulas via LaTeX
-* Disqus comments
-* RSS feed
-* Print layout
-
-Open `about.md` to edit this text.
-
-### [Documentation][docs]
-Hydejack is documented extensively.
-You can read it [here][docs], or in the [repository's wiki][wiki], or [download the PDF][download].
-
-Open `about.md` to edit this text.
-
-### Download
-There are two versions of Hydejack: The Free Version includes basic blogging functionality, as did previous versions of the theme. The PRO Version includes additional features for professionals: A [portfolio], a [resume] layout and a [welcome] page to feature your favorite projects and posts.
-
-This table details what is and isn't included in each respective version.
-
-| | Free Version | PRO Version |
-|:-|:-:|:-:|
-| Blog | ✔️ | ✔️ |
-| Features (see above) | ✔️ | ✔️ |
-| [Portfolio] | | ✔️ |
-| [Resume] | | ✔️ |
-| [Welcome] | | ✔️ |
-| Briefcase full of $100 bills | | |
-| License | MIT | [PRO] |
-| Price | Free | $29 |
-| | [**Download on GitHub**][download]<br/> -- or -- <br/>[**Use the RubyGem**][gem] | [**Buy on Simple Goods**][buy] |
-
-Open `about.md` to edit this text.
+For any additional information please drop Trevor a note at `trevor at practical performance analyst dot com`.  
 
 
-[^1]: Applies after the initial page load.  
-[^2]: Actual page load speed depends on your hosting provider as well as discipline regarding resolution of images and usage of 3rd party plugins.
-
-[blog]: https://qwtel.com/hydejack/blog/
-[portfolio]: https://qwtel.com/hydejack/projects/
-[resume]: https://qwtel.com/hydejack/resume/
-[welcome]: https://qwtel.com/hydejack/
-[pro]: https://qwtel.com/hydejack/docs/6.4.0/pro-license/
-[docs]: https://qwtel.com/hydejack/docs/6.4.0/
-[wiki]: https://github.com/qwtel/hydejack/wiki
-
-[download]: https://github.com/qwtel/hydejack/releases/tag/v6.4.0
-[gem]: https://rubygems.org/gems/jekyll-theme-hydejack/versions/6.4.0
-[buy]: https://app.simplegoods.co/i/AQTTVBOE
