@@ -11,6 +11,8 @@ The Melbourne Raspberry Pi Hackers Group is open to anyone who has an interest i
 
 We welcome hackers of all ages, including kids and women with interests in open hardware, open source.
 
+* Location - Our meetups are held at the Connected Community Hackerspace located at - `Connected Community Hacker Space, 5 Kent Lane, Hawthorn`.
+* Duration, Schedule - We generally meet once every month on a saturday afternoon. This could be either the first or last saturday of the month. Please check the meetup page for details. The sessions start generally at 1300 Hrs AEST and finish by 1700 Hrs AEST. 
 * Hands on Tutorials - Meetups are a great opportunity to collaborate and learn. At each of the upcoming meetups we will run a short tutorial lasting 20-30 minutes led by one of our hackers. This could be a short tutorial which would help you understand the software/hardware stack the RaspberryPi is based on in more detail or it could involve the use of sensors to interact with the world around you. In some of these tutorials you will have the opportunity to use your RaspberryPi, interface it with the real world using sensors, learn how to acquire the data so that you are able to make sense of the data and make decisions based on data acquired. Watch out for details of the tutorials.
 * Come & Hack with us - The meetup aims to be one big Hacking Session. You can get hands on, form groups, get hacking and work together to solve problems!!!. Our meetups are a great opportunity to ask questions, learn and share what you have learned with the others at the meetup.
 * Kids Can Hack Too - Kids are welcome. If you are bringing them along please drop us a note and let me know.
@@ -25,10 +27,7 @@ You will need to bring along -
 * We have a couple of monitors which you can borrow for the session. There aren't many to go around so be open to timesharing them...:)
 * Please bring along any Open Hardware or Raspberry Pi projects you have built. We are very keen for members to show and tell, sharing with the community the knowledge they have gained hacking their own projects.
 
-Location - Our meetups are held at the Connected Community Hackerspace located at - `Connected Community Hacker Space, 5 Kent Lane, Hawthorn`.
-
 We keep in touch through [Slack](https://melbrpi.slack.com) Slack is a web based platform that provides capability for individual and group chat with many other interesting features that foster collaboration among individuals. If you are keen to hang out and chat about the projects you are working on, get help on issues your facing or just want to hang out and help others with your supreme hacking skills please grab a slack account and join us by clicking on the following link - [Slack Registration](https://melbrpi.herokuapp.com). 
 
 To learn more about the Melbourne Raspberry Pi Hackers Group please visit [www.meetup.com](https://www.meetup.com/en-AU/Melbourne-Raspberry-Jam/). If you have any questions or need any additional information please drop Trevor Warren a note at `trevor at practical performance analyst dot com` or Rob Conway a note at `rjconway at bigpond dot com`.  
-
 
