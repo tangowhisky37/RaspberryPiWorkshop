@@ -13,7 +13,9 @@ layout: base
   {% if author.picture %}
     {% include srcset-img.html class="me" img=author.picture alt=author.name %}
   {% endif %}
- 
+  
+  <br>  
+  <br>  
   <hr>
   {{ author.about | markdownify }}
 
