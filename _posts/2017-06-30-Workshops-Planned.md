@@ -18,7 +18,7 @@ The design of the detailed agenda and the content is at an early stage. However 
 
 Calling Volunteers - Those interested in helping out with design of the content or even delivering the workshop should get in touch with either of the organizers. Please see below for contact details of the organizers. 
 
-> The Melbourne Raspberry Pi Hackers Group is thankful to the Connected Community Hacker Space (CCHS) for their continued support, allowing use of their premises for purposes of hosting the meetups. You can visit the Connected Community Hackerspace website at [www.hackmelbourne.org](www.hackmelbourne.org).
+> The Melbourne Raspberry Pi Hackers Group is thankful to the Connected Community Hacker Space (CCHS) for their continued support, allowing use of their premises for purposes of hosting the meetups. You can visit the Connected Community Hackerspace website at [www.hackmelbourne.org](http://www.hackmelbourne.org).
 
 If you are keen to hang out and chat about the projects you are working on, get help on issues your facing or just want to hang out and help others with your supreme hacking skills please grab a slack account and join us by clicking on the following link - [Slack Registration](https://melbrpi.herokuapp.com).
 
