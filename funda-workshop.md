@@ -2,7 +2,7 @@
 layout: pagelayout
 title: Fundamentals Workshop
 menu: true
-order: 1
+order: 6
 ---
 
 ## Melbourne RaspberryPi Hackers Group

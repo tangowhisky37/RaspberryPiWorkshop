@@ -2,7 +2,7 @@
 layout: pagelayout
 title: Rules & Regulations
 menu: true
-order: 4
+order: 9
 ---
 
 ## Melbourne RaspberryPi Hackers Group

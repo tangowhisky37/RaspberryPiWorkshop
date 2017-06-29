@@ -2,7 +2,7 @@
 layout: pagelayout
 title: Advanced Workshop
 menu: true
-order: 2
+order: 7
 ---
 
 ## Melbourne RaspberryPi Hackers Group

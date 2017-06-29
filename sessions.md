@@ -2,12 +2,12 @@
 layout: pagelayout
 title: Meetup Format
 menu: true
-order: 3
+order: 8
 ---
 
 ## Melbourne RaspberryPi Hackers Group
 
-The Melbourne Raspberry Pi Hackers Group is open to anyone who has an interest in hacking open source and open hardware. Hackers (budding, amateurs, etc.) with interests in open hardware e.g. Arduino, ESP8266, Raspberry Pi, etc. are invited to bring along their projects and come hack with us at the meetup. This is an opportunity to meetup with other hackers here in Melbourne, to get your questions answered, to show off the work you are doing and get going on those problems that have stalled progress on your hobby projects. We welcome hackers of all ages, including women and kids with interests in open hardware, open source. 
+The Melbourne Raspberry Pi Hackers Group is open to anyone who has an interest in hacking open source and open hardware. Digital makers and hackers with interests in open hardware e.g. Arduino, ESP8266, Raspberry Pi, etc. are invited to bring along their projects and come hack with us at the meetup. This is an opportunity to meetup with other hackers here in Melbourne, to get your questions answered, to show off the work you are doing and get going on those problems that have stalled progress on your hobby projects. We welcome hackers of all ages, including women and kids with interests in open hardware, open source. 
 
 The usual monthly Melbourne RaspberryPi Hackers Group meetup follows the format presented below -
 
